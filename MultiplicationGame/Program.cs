@@ -1,6 +1,4 @@
 ﻿// © Johan Kohlin
-Copyright sign
-Unicode: U+00A9, UTF-8: C2 A9
 using System;
 using System.Timers;
 
